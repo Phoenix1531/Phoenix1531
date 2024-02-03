@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hey, I'm Arjun Kotha<br>💻 I'm currently full-stack development<br>📚 B.Tech CSE, Software Product Engineering Student @ Kalvium x LPU
+# 👋 Hey, I'm Arjun Kotha
+--
+💻 I'm currently full-stack development<br>📚 B.Tech CSE, Software Product Engineering Student @ Kalvium x LPU
 
 
 ## 🌐 Socials:
